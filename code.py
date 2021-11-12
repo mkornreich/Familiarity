@@ -5,7 +5,7 @@ import numpy as np
 
 script_dir = os.path.dirname(__file__)
 
-#Reads the document with word familiarity scores from MCR
+#Reads the document with word familiarity scores from MRC
 columns = defaultdict(list)
 with open(os.path.join(script_dir, "familiarity.csv")) as f:
     reader = csv.DictReader(f)
