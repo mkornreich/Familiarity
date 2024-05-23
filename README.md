@@ -1,6 +1,6 @@
 # Word Familiarity Calculator
 
-A program that outputs familiarity values for workd.
+A program that outputs familiarity values for words.
 
 ## How it works
 
